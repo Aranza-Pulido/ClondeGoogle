@@ -3,7 +3,7 @@
 ## Indice
 
 * [1.Introducción](https://github.com/Aranza-Pulido/ClondeGoogle/blob/main/README.md#introducci%C3%B3n)
-* [2.Qué construí](#)
+* [2.Qué construí](https://github.com/Aranza-Pulido/ClondeGoogle/blob/main/README.md#qu%C3%A9-constru%C3%AD)
 * [3.Objetivo del proyecto](#)
 
 ****
